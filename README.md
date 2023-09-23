@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherwin Corminal</h1>
 <h3 align="center">A passionate baby developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/koled123">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Arnold-Mags/Arnold-Mags/blob/main/AR2.jpg"><img src="https://github.com/Arnold-Mags/Arnold-Mags/raw/main/AR2.jpg" alt="Design and Development" style="max-width: 100%;"></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koled123&label=Profile%20views&color=0e75b6&style=flat" alt="koled123" /> </p>
 
